@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    background-image: url(back.png);
+}
+
+.hero{
+    position: absolute;
+    margin-left:600px;
+    margin-top: 150px;
+    margin-right: 150px;
+    text-align:center;
+}
+
+.navi{
+   margin-top: 20px;
+   width:100%
+
+}
+
+.logo{
+    height:150px;
+    position:absolute;
+    top:0;
+    left: 0;
+    
+}
+
+li{
+    align-items: center;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: white;
+    display:block;
+    
+}
+
+li a{
+    color:white;
+    font-style: normal;
+    font-family: cursive;
+    text-decoration: none;
+
+}
+
+li a:hover{
+    color: grey;
+}
+
+.detail{
+    margin-top: 2px;
+}
+
+.detail h1{
+    font-weight: bold;
+    color: white;
+    font-size:30px;   
+}
+
+.detail p{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.image{
+}
+
+.photo{
+    width: 250px;
+    margin:100px;
+    margin-left:200px;
+    border:white;
+    border-radius: 20px;
+    border-style: double;
+}
+
+.image .contact{
+    position:absolute;
+    top:20px;
+    right:20px;
+    height:30%
+    
+}
+.contact img .ins{
+}
+
+.contact img .linked{
+}
