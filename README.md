@@ -1,2 +1,2 @@
 # Encryptix
-Web Dev Internship Project
+Web Development Internship Project
